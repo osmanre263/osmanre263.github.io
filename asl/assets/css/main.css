@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Taviraj:300,400,700,300i,400i,700i");
 
@@ -3712,7 +3712,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/network3.gif");
+		background-image: url("../../images/ai.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
