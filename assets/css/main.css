@@ -3517,7 +3517,7 @@
 			animation: reveal-header 0.5s ease;
 		}
 
-		#header.alt {
+		header.alt {
 			-moz-animation: none;
 			-webkit-animation: none;
 			-ms-animation: none;
