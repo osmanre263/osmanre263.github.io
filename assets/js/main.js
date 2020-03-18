@@ -11,7 +11,7 @@ $("#SubmitMessage").click(function() {
 
 
 (function($) {
-	console.log("init")
+	console.log("Main loaded...")
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
