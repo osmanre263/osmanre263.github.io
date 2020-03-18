@@ -117,10 +117,10 @@
 		// Scrolly.
 			if ( $( ".scrolly" ).length ) {
 
-				var $height = $('#header').height() * 0.95;
+				var $height = $('#header').height();
 
 				$('.scrolly').scrolly({
-					offset: $height
+					offset: -$height
 				});
 			}
 
