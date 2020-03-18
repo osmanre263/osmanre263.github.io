@@ -1,10 +1,17 @@
-/*
-	Transitive by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+$("#SubmitMessage").click(function() {
+	//var val = $("message").value;
+
+	var elements = document.forms["form"].elements;
+	for (i = 0; i < elements.length; i++){
+		var elem = elements[i]
+		console.log(elem.name + ": " + elem.value)
+	}
+
+});
+
 
 (function($) {
+	console.log("init")
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
@@ -138,5 +145,4 @@
 				});
 
 	});
-
 })(jQuery);

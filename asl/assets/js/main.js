@@ -39,7 +39,7 @@
 			});
 
 		// Fix: Placeholder polyfill.
-			$('form').placeholder();
+		$('form').placeholder();
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
