@@ -2,12 +2,11 @@
 
 <html>
 <head>
-    <title>Chess</title>
+    <title>Reuben Osman</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
     
-		<link rel="stylesheet" href="../chess/assets/css/main.css" />
-	
 </head>
 <body>
     <!-- Header -->
@@ -17,16 +16,13 @@
                 <span> </span>
             </a>
         </div>
-
-        
     </header>
 
     <!-- Nav -->
     <nav id="menu">
         <ul class="links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="generic.html">Generic</a></li>
-            <li><a href="elements.html">Elements</a></li>
+            <li><a href="/asl/index.html">ASL</a></li>
+            <li><a href="/chess/index.html">Chess</a></li>
         </ul>
     </nav>
 
@@ -34,15 +30,15 @@
     <section id="banner">
         <div class="inner">
             <center>
-                <h1>Chess</h1>
+                <h1></h1>
             </center>
-            <p>Reuben Osman </p>
+            <p>Welcome to my website</p>
             <a href="#one" class="button special scrolly">Get Started</a>
         </div>
     </section>
 
     <!-- One -->
-    <section id="one" class="wrapper style2">
+    <!--<section id="one" class="wrapper style2">
         <div class="inner">
             <div>
                 <div class="box">
@@ -59,6 +55,7 @@
             </div>
         </div>
     </section>
+	-->
     
 
     <!-- Two -->
